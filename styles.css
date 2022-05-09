@@ -68,10 +68,15 @@ img {
 
 .count {
     font-size: 32px;
-    margin: 8px 256px;
+    margin: 16px;
     font-weight: 700;
     border: 1px solid var(--white);
     padding: 0 1rem;
+    width: 30%;
+}
+
+.line {
+    margin-top: 10px;
 }
 
 .container-footer button {
@@ -83,17 +88,9 @@ img {
     cursor: pointer;
 }
 
-.btn-subtract {
-    background-color: var(--color-red);
-}
-
-.btn-reset {
+.btn-generate {
     background-color: var(--white);
     color: var(--black) !important;
-}
-
-.btn-add {
-    background-color: var(--dark-green);
 }
 
 .btn-text {
