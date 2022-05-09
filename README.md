@@ -6,6 +6,6 @@ We start our Javascript exercises by making the Random Hex Color Generator App, 
 
 I will give detailed explanation later.
 
-<a href="https://www.linkpicture.com/view.php?img=LPic62795d934c6a32012269641"><img src="https://www.linkpicture.com/q/Screenshot-from-2022-05-09-21-29-18.png" type="image"></a>
+<a href="https://003-hex-color-generator.netlify.app" target="_blank">My Hex Color Generator App</a>
 
-https://003-hex-color-generator.netlify.app
+<a href="https://www.linkpicture.com/view.php?img=LPic62795d934c6a32012269641"><img src="https://www.linkpicture.com/q/Screenshot-from-2022-05-09-21-29-18.png" type="image"></a>
