@@ -8,4 +8,4 @@ I will give detailed explanation later.
 
 <a href="https://004-modal-app.netlify.app/" target="_blank">My Hex Color Generator App</a>
 
-<a href="https://www.linkpicture.com/view.php?img=LPic627aae15a58e6261721807"><img src="https://www.linkpicture.com/q/Screenshot-from-2022-05-10-21-25-03.png" type="image"></a>
+<a href="https://www.linkpicture.com/view.php?img=LPic627aaf079fcb71460197926"><img src="https://www.linkpicture.com/q/Screenshot-from-2022-05-09-21-29-18_1.png" type="image"></a>
